@@ -1,0 +1,3 @@
+D:/Jetbrains/SudokuX_Fase2/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Jetbrains/SudokuX_Fase2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Jetbrains/SudokuX_Fase2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
